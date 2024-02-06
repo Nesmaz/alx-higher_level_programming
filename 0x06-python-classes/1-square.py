@@ -4,7 +4,7 @@
 
 class Square:
     """
-    This is square class. It has one method: __init__.
+    This is square class. It has the __init__ constructor and method.
     """
 
 
@@ -13,7 +13,7 @@ class Square:
         Initializes class attributes
 
         Args:
-        size: size of square
+            size: size of square
         """
 
 
