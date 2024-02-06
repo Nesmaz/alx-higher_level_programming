@@ -3,10 +3,7 @@
 
 
 class Square:
-    """
-    This is square class. It has the __init__ constructor and method.
-    """
-
+    """ This is square class """
 
     def __init__(self, size) -> None:
         """
@@ -15,6 +12,4 @@ class Square:
         Args:
             size: size of square
         """
-
-
         self.__size = size
